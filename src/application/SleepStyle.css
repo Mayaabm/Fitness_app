@@ -1,0 +1,31 @@
+.label-title {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+}
+
+.label-input {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333;
+}
+
+.combo-box {
+    -fx-pref-width: 80px;
+}
+
+.button-calculate {
+    -fx-font-size: 16px;
+    -fx-pref-width: 120px;
+    -fx-background-color: #007bff; 
+    -fx-text-fill: white;
+}
+.vbox-root {
+    -fx-padding: 20px;
+    -fx-spacing: 20px;
+    -fx-background-color: #f4f4f4; 
+}
+
+.grid-input {
+    -fx-hgap: 10px;
+    -fx-vgap: 10px;
+}

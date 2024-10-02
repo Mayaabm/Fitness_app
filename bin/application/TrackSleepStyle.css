@@ -1,0 +1,29 @@
+/* TracSleepStyle.css */
+
+/* Label styles */
+.label {
+    -fx-font-size: 16px;
+    -fx-text-fill: black; /* White text */
+}
+
+/* VBox styles */
+.vbox {
+    -fx-spacing: 10;
+    -fx-background-color: #007bff; /* Blue background */
+    -fx-padding: 20px; /* Padding */
+}
+.combo-box {
+    -fx-pref-width: 200px;
+     -fx-background-color: white; /* White background */
+    -fx-border-color: #2196F3; /* Blue border */
+    -fx-border-width: 2px; /* Border width */
+    -fx-font-size: 14px;
+    -fx-border-radius: 5px;
+}
+.button {
+    -fx-background-color: #007bff; /* Blue background */
+    -fx-text-fill: white; /* White text */
+    -fx-font-size: 14px;
+    -fx-pref-width: 120px;
+    -fx-padding: 8px 16px; /* Padding */
+}

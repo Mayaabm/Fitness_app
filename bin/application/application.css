@@ -1,0 +1,66 @@
+
+.label {
+  -fx-font-size: 14px;
+  -fx-font-weight: bold;
+}
+
+.text-field {
+  -fx-pref-width: 200px;
+    -fx-max-width: 200px; 
+  -fx-background-color: white; 
+  -fx-border-color: #2196F3; 
+  -fx-border-width: 2px; 
+  -fx-font-size: 14px;
+  -fx-border-radius: 5px; 
+}
+.title {
+    -fx-font-size: 50pt; 
+    -fx-text-fill: blue; 
+     -fx-padding: 10px 20px 30px 525px;
+}
+
+.button {
+  -fx-background-color: #2196F3; 
+  -fx-text-fill: white; 
+  -fx-font-size: 14px;
+  -fx-pref-width: 200px;
+  -fx-padding: 8px 16px; 
+}
+
+.combo-box {
+  -fx-pref-width: 200px;
+  -fx-background-color: white; 
+  -fx-border-color: #2196F3;
+  -fx-border-width: 2px; 
+  -fx-font-size: 14px;
+  -fx-border-radius: 5px;
+    -fx-max-width: 200px;  
+}
+
+.white-pane {
+  -fx-border-color: #2196F3; 
+  -fx-border-width: 2px; 
+  -fx-padding: 20px; 
+    -fx-border-radius: 5px;
+  
+}
+
+.h-box {
+  -fx-alignment: center; 
+}
+
+.grid-pane {
+  -fx-alignment: center; 
+}
+.data-entry-box {
+    -fx-alignment: center; 
+    -fx-padding: 10px 20px 10px 550px; 
+}
+
+.blue-border {
+    -fx-border-color: #0000ff; /* Blue border */
+    -fx-border-width: 2px;
+    -fx-padding: 10px;
+    -fx-border-radius: 5px; /* Optional: Add rounded corners */
+}
+

@@ -1,0 +1,57 @@
+/* Title styles */
+.title {
+    -fx-font-size: 24px; /* Larger font size */
+    -fx-text-fill: #000000; /* Black text color */
+    -fx-font-family: "Arial", sans-serif; /* Font family */
+    -fx-font-weight: bold; /* Bold font weight */
+}
+
+/* Label styles */
+.label {
+    -fx-font-size: 16px; /* Normal font size */
+    -fx-text-fill: #000000; /* Black text color */
+    -fx-font-family: "Arial", sans-serif; /* Font family */
+}
+
+/* TextField styles */
+.text-field {
+    -fx-font-size: 14px; /* Font size */
+    -fx-background-color: #f0f8ff; /* Light blue background */
+    -fx-border-color: #007bff; /* Blue border color */
+    -fx-border-width: 1px; /* Border width */
+    -fx-border-radius: 5px; /* Border radius */
+    -fx-pref-width: 150px; /* Preferred width */
+}
+
+/* Button styles */
+.button {
+    -fx-font-size: 16px; /* Font size */
+    -fx-background-color: #007bff; /* Blue background */
+    -fx-text-fill: #000000; /* Black text color */
+    -fx-font-family: "Arial", sans-serif; /* Font family */
+    -fx-pref-width: 150px; /* Preferred width */
+    -fx-padding: 8px 16px; /* Padding */
+    -fx-border-radius: 5px; /* Border radius */
+    -fx-border-color: #007bff; /* Blue border color */
+    -fx-border-width: 1px; /* Border width */
+    -fx-padding:5px 5px 5px 5px;
+}
+
+.button:hover {
+    -fx-background-color: #0056b3; /* Darker blue background on hover */
+    -fx-border-color: #0056b3; /* Darker blue border color on hover */
+}
+
+.button:pressed {
+    -fx-background-color: #003366; /* Dark blue background when pressed */
+    -fx-border-color: #003366; /* Dark blue border color when pressed */
+}
+
+/* Custom border styles */
+.custom-border {
+    -fx-border-color: #007bff; /* Blue border color */
+    -fx-border-width: 2px; /* Border width */
+    -fx-border-radius: 5px; /* Border radius */
+    -fx-padding: 5px; /* Padding */
+}
+

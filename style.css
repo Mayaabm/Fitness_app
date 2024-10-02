@@ -1,0 +1,25 @@
+/* styles.css */
+/* Label styles */
+.label {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+/* TextField styles */
+.text-field {
+    -fx-pref-width: 100px;
+}
+
+/* Button styles */
+.button {
+    -fx-background-color: #4CAF50; /* Green background */
+    -fx-text-fill: white; /* White text */
+    -fx-font-size: 14px;
+    -fx-pref-width: 120px;
+    -fx-padding: 8px 16px; /* Padding */
+}
+
+/* ComboBox styles */
+.combo-box {
+    -fx-pref-width: 200px;
+}

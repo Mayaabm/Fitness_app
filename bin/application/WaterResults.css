@@ -1,0 +1,23 @@
+/* TrackWaterStyle.css */
+.root {
+    -fx-background-color: #f0f5f9; /* Light blue background */
+}
+
+.label {
+    -fx-font-size: 18px;
+    -fx-text-fill: #333333; /* Dark gray text */
+}
+
+.text-field {
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-background-color: #007bff; /* Blue button background */
+    -fx-text-fill: white; /* White text color */
+    -fx-font-size: 14px;
+}
+
+.button:hover {
+    -fx-background-color: #0056b3; /* Darker blue on hover */
+}

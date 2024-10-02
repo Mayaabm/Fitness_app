@@ -1,0 +1,59 @@
+/* TrackWaterStyle.css */
+
+/* Title style */
+.title {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333; /* Dark gray text color */
+}
+
+/* Label style */
+.label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #333333; /* Dark gray text color */
+}
+
+/* Text field style */
+.text-field {
+    -fx-font-size: 14px;
+    -fx-background-color: #f0f8ff; /* Light blue background color */
+    -fx-border-color: #007bff; /* Blue border color */
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+    -fx-pref-width: 150px;
+}
+
+/* Button style */
+.button {
+    -fx-font-size: 16px;
+    -fx-background-color: #007bff; /* Blue background color */
+    -fx-text-fill: #ffffff; /* White text color */
+    -fx-pref-width: 100px;
+    -fx-padding: 8px 16px;
+    -fx-border-radius: 5px;
+    -fx-border-color: #007bff; /* Blue border color */
+    -fx-border-width: 1px;
+}
+
+.button:hover {
+    -fx-background-color: #0056b3; /* Darker blue background color on hover */
+    -fx-border-color: #0056b3; /* Darker blue border color on hover */
+}
+
+.button:pressed {
+    -fx-background-color: #003366; /* Dark blue background color when pressed */
+    -fx-border-color: #003366; /* Dark blue border color when pressed */
+}
+
+/* GridPane style */
+.grid-pane {
+    -fx-hgap: 10px; /* Horizontal gap between nodes */
+    -fx-vgap: 10px; /* Vertical gap between nodes */
+}
+
+/* VBox style */
+.v-box {
+    -fx-spacing: 20px; /* Spacing between children nodes */
+    -fx-padding: 20px; /* Padding around the VBox */
+}
+

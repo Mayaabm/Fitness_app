@@ -1,0 +1,34 @@
+.root {
+    -fx-background-color: #f0f8ff; 
+    -fx-padding: 20;
+}
+
+#pieChart {
+    -fx-background-color: #ffffff; 
+    -fx-border-color: #4682b4; 
+    -fx-border-width: 2px;
+}
+
+.label {
+    -fx-font-size: 14pt;
+    -fx-text-fill: #696969;}
+
+.chart-pie-label-line {
+    -fx-stroke: #4682b4; 
+}
+.chart-pie-label {
+    -fx-fill: #4682b4; 
+    -fx-font-size: 12pt;
+}
+
+.chart-legend {
+    -fx-background-color: #f0f8ff; 
+    -fx-border-color: #4682b4; 
+    -fx-border-width: 2px;
+}
+.label {
+    -fx-font-size: 14pt;
+    -fx-text-fill: grey;
+    -fx-alignment: center;
+}
+
